@@ -43,6 +43,7 @@
     border-radius: 1rem;
     padding: 2rem;
     text-align: center;
+    transition: var(--transition);
 }
 
 .about__card:hover {
@@ -101,7 +102,7 @@
     margin: 0 auto 3rem;
 }
 .about__cards {
-    grid-template-columns: 1fr-1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 1rem;
 }
 

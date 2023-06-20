@@ -17,37 +17,37 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Visual design and design software.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>User research and usability testing.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Communication and presentation.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Typography Skills.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Interaction Design Skills.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Wireframing and Prototyping Skills.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Visual Communication Skills.</p>
             </li>
           </ul>
         </article>
@@ -61,37 +61,52 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Responsive Design.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Program Frameworks.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Testing and Debugging.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Attention to Detail.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Content Management Systems (CMS).</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Git.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Knowledge of web servers and their functioning.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Knowledge of coding languages such as HTML, CSS, JavaScript, etc.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Expertise in writing codes using front-end programming languages such as Ajax.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Skilled in back-end coding languages such as C#, PHP, Ruby, etc.</p>
             </li>
           </ul>
         </article>
@@ -105,37 +120,27 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Redesign or improve an existing website.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Create a landing page & Websites based on front-end Technologies college Intern's.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Take on projects requiring different programming languages.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Collaborate with fellow freelancers to work on open-source projects.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Contribute to open-source projects.</p>
             </li>
           </ul>
         </article>

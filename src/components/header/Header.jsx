@@ -3,6 +3,7 @@ import './header.css'
 import CTA from './CTA'
 import ME from '../../assets/1.png'
 import HeaderSocials from './HeaderSocials'
+import Type from './Type'
 
 
 
@@ -10,9 +11,9 @@ const Header = () => {
   return (
     <header>
       <div className="container header__container">
-        <h5>Hello I'm</h5>
+        <h4>Hello I'm</h4>
         <h1>Sanket Rathod</h1>
-        <h5 className="text-light">Frontend Developer</h5>
+        <h2 className="text-light"><Type/></h2>
         <CTA/>
         <HeaderSocials/>
 
