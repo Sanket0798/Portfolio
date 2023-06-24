@@ -21,7 +21,7 @@ const Portfolio = () => {
           <h3>"Cine Screen" is a Movie library Website using React.js</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/Sanket0798?tab=projects"
+              href="https://github.com/Sanket0798/Cine_Screen-Movie_Library"
               className="btn"
               target={"_blank"}
             >
@@ -37,7 +37,7 @@ const Portfolio = () => {
           <h3>"Material Dashboard" is free MUI Admin Template based on React.</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/Sanket0798?tab=projects"
+              href="https://github.com/Sanket0798/Material_Dashboard-React_Frontend"
               className="btn"
               target={"_blank"}
             >
@@ -53,7 +53,7 @@ const Portfolio = () => {
           <h3>This is a Frontend E-Commerce Website using React Router DOM.</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/Sanket0798?tab=projects"
+              href="https://github.com/Sanket0798/E-Bazaar-E-Commerce-Website"
               className="btn"
               target={"_blank"}
             >
@@ -69,7 +69,7 @@ const Portfolio = () => {
           <h3>"Evogym" is a Complete Typescript React Fitness Application.</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/Sanket0798?tab=projects"
+              href="https://github.com/Sanket0798/Evogym-React_typescript"
               className="btn"
               target={"_blank"}
             >
@@ -85,7 +85,7 @@ const Portfolio = () => {
           <h3>This is a simple Landing Website using HTML & CSS.</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/Sanket0798?tab=projects"
+              href="https://github.com/Sanket0798/Website_landing_page-HTML_CSS"
               className="btn"
               target={"_blank"}
             >
@@ -101,7 +101,7 @@ const Portfolio = () => {
           <h3>"Tripify" is a Frontend based Travel Website.</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/Sanket0798?tab=projects"
+              href="https://github.com/Sanket0798/Tripify-React_Frontend"
               className="btn"
               target={"_blank"}
             >
